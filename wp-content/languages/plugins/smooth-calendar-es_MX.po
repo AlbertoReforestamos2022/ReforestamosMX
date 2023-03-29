@@ -1,0 +1,65 @@
+# Translation of Plugins - Smooth Calendar - Development (trunk) in Spanish (Mexico)
+# This file is distributed under the same license as the Plugins - Smooth Calendar - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-10 14:20:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - Smooth Calendar - Development (trunk)\n"
+
+#: admin/partials/smooth-calendar-admin-display-metabox.php:32
+msgid "Date"
+msgstr "Fecha"
+
+#: admin/partials/smooth-calendar-admin-display-metabox.php:64
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/partials/smooth-calendar-admin-display-metabox.php:56
+msgid "Location"
+msgstr "Ubicación"
+
+#: admin/partials/smooth-calendar-admin-display-metabox.php:48
+msgid "End time"
+msgstr "Hora de finalización"
+
+#: admin/partials/smooth-calendar-admin-display-metabox.php:40
+msgid "Start time"
+msgstr "Hora de Inicio"
+
+#: admin/class-smooth-calendar-admin.php:257
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#: admin/class-smooth-calendar-admin.php:182
+msgid "Event details"
+msgstr "Detalles del evento"
+
+#: admin/class-smooth-calendar-admin.php:159
+msgid "No events found in Trash"
+msgstr "No se encontraron eventos en la papelera."
+
+#: admin/class-smooth-calendar-admin.php:158
+msgid "No events found"
+msgstr "No se encontraron eventos"
+
+#: admin/class-smooth-calendar-admin.php:157
+msgid "New event"
+msgstr "Nuevo evento"
+
+#: admin/class-smooth-calendar-admin.php:153
+msgid "Edit event"
+msgstr "Editar evento"
+
+#: admin/class-smooth-calendar-admin.php:152
+msgid "Events"
+msgstr "Eventos"
+
+#: admin/class-smooth-calendar-admin.php:150
+#: admin/class-smooth-calendar-admin.php:151
+msgid "Add New Event"
+msgstr "Añadir nuevo evento"
